@@ -1,8 +1,8 @@
-### Shopify webpage clone
+### Paytm webpage clone
 -----
 A webpage clone of shopify
 
-![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-14%20hrs%20%2040%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://paytmclone101.netlify.app/ "project demo")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
+![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-14%20hrs%20%2040%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://ecomclone101.netlify.app/ "live website")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
 
 
 ### Things Learn from the project
